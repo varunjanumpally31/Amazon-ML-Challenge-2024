@@ -1,9 +1,3 @@
-# Amazon-ML-Challenge-2024
-
-Here is the revised README.md written in a general format:
-
----
-
 # Amazon ML Challenge 2024
 
 ## Overview
@@ -45,7 +39,3 @@ The extensive fine-tuning, combined with data cleaning and prompt optimization, 
 - **Model**: MoonDream2 - Vision-Language Model available on [HuggingFace](https://huggingface.co/vikhyatk/moondream2)
 - **Training Environment**: Kaggle Notebooks with T4 GPU, Google Colab Pro with A100 GPU
 - **Training Data**: Approximately 196,000 images were used after extensive cleaning and preprocessing.
-
----
-
-This README.md provides a comprehensive overview of the project while focusing on the technical aspects and the methodology used in the challenge.
